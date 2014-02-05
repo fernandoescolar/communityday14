@@ -85,6 +85,7 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\V3Controller.cs" />
+    <Compile Include="Controllers\V6Controller.cs" />
     <Compile Include="Controllers\V5Controller.cs" />
     <Compile Include="Controllers\V4Controller.cs" />
     <Compile Include="Controllers\V2Controller.cs" />
