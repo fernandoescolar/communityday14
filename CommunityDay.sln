@@ -10,7 +10,13 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{57A6C02E-C756-4E3D-AC4C-62A3587F691D}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
+		..\presentación.pptx = ..\presentación.pptx
 		VisualStudioOnline.testsettings = VisualStudioOnline.testsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stand Alone Profiler", "Stand Alone Profiler", "{F6B7DFFE-67CC-4EE7-A513-16959D2C841C}"
+	ProjectSection(SolutionItems) = preProject
+		..\Performance\WebImageEditor\Backup\WebImageEditor\StartProfiling.cmd = ..\Performance\WebImageEditor\Backup\WebImageEditor\StartProfiling.cmd
 	EndProjectSection
 EndProject
 Global
